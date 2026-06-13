@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitConversionAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f845a66a5aa3a3e8cb69bb2a68e4b016b391f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitConversionAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitConversionAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
